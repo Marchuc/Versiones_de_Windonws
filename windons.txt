@@ -1,0 +1,16 @@
+
+Versiones y evolución de Windows
+Desde noviembre de 1985 que se lanzó la primera versión del SO de Microsoft, hasta el año 2021 que se lanzó la última versión del sistema, conocida como Windows 11. Mucho ha llovido desde que naciera en ese año la primera versión de este software para ordenadores. Aunque, no solo ha pasado mucho tiempo, también han pasado muchas cosas en este tiempo.
+
+Más que nada, porque hemos sido testigos de cómo se han ido dando numerosos avances en el mundo de la informática y la tecnología. Y es que, nada tienen que ver los primeros lanzamientos de Windows con las presentaciones más recientes, veamos la evolución de este sistema operativo tan conocido en el mundo:
+
+Primeras versiones
+Años después de anunciar este nuevo sistema operativo que mejoraría a MS-DOS de cara a los usuarios, por fin lanzaron una nueva versión en que era mucho más fácil utilizar el ordenador. Desde entonces, surgieron las primeras versiones de Windows, que, aunque no son espectaculares a nivel de prestaciones y diseño fueron toda una revolución por aquel entonces. Comentamos cuáles son y en qué consisten cada una de ellas.
+
+Windows 1.0
+Aunque ya se hablaba de la existencia de la primera versión de Windows antes de la presentación de Windows 1.0, lo cierto es que hasta el 20 de noviembre del año 1985 no se anunció de manera oficial esta primera versión del sistema. Una versión que ofrecía poca funcionalidad y que no se trataba de un sistema operativo completo, ya que más bien era una extensión gráfica de MS-DOS que hacía pensar en dejar atrás el uso de comandos.
+
+Desarrollado 16 bits requería de 320 KBs de memoria RAM, una tarjeta gráfica y una unidad de disquete para funcionar, el precio de venta era de 99$. Windows 1.0 tuvo soporte hasta el 31 de diciembre de 2001, por lo que, a pesar de ser una versión sin apenas funcionalidad, los de Redmond estuvieron ofrecieron soporte durante poco más de 16 años hasta que quedó obsoleto.
+
+No es de los más populares, pero con él inicia la historia de un sistema operativo que ha conseguido hacerse todo un éxito con el paso de los años. Aquí empieza el recorrido de un sistema operativo con éxito que no ha sabido enamorar desde sus principios.
+
